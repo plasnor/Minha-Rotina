@@ -1,0 +1,1 @@
+Minha Rotina minimalista: envie index.html, manifest.webmanifest e os ícones à raiz do repositório plasnor/Minha-Rotina. O APK WebView já configurado carrega a mesma URL, portanto verá o novo visual quando a página atualizar. Para gerar novo APK, envie também a pasta app, os arquivos Gradle e .github/workflows do pacote Android. Faça backup da agenda antes de atualizar.
