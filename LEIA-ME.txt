@@ -1,0 +1,1 @@
+Minha Rotina: versão com aba Rotinas (Estudos, Treinos, Capilar, Dieta, Pessoal). Substitua os arquivos do GitHub Pages, principalmente index.html. Faça backup antes. Os hábitos são salvos neste navegador; backup em Ajustes agora inclui rotinas. O APK nativo e notificações com tela bloqueada ainda não estão implementados.
