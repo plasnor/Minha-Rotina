@@ -1,0 +1,15 @@
+MINHA ROTINA — PUBLICAR NO GITHUB PAGES
+
+1. GitHub > New repository > nome: minha-rotina > Public > Create.
+2. Add file > Upload files. Extraia este ZIP antes e envie os arquivos, não o ZIP.
+3. Commit changes.
+4. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+5. Abra https://SEU-USUARIO.github.io/minha-rotina/ (aguarde publicação).
+6. Chrome Android > menu > Instalar aplicativo, se disponível.
+
+IMPORTANTE
+- Este pacote NÃO conecta o ChatGPT automaticamente.
+- A agenda fica no navegador local; não há sincronização entre aparelhos.
+- Nunca publique backups pessoais ou chaves secretas no GitHub.
+- Integração futura: backend HTTPS autenticado + API de eventos + GPT Action/conector compatível, após verificar disponibilidade.
+- O ChatGPT Plus não inclui créditos de API OpenAI.
